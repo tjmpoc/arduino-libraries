@@ -1,0 +1,26 @@
+#######################################
+# Classes / Datatypes (KEYWORD1)
+#######################################
+ 
+pwm2	KEYWORD1
+ClockPrescaler    KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+init    KEYWORD2
+setClockPrescaler    KEYWORD2
+uninit    KEYWORD2
+setPwmA    KEYWORD2
+setPwmB    KEYWORD2
+calculateDutyFactor    KEYWORD2
+dutyFactorToPwm    KEYWORD2
+disablePwmA    KEYWORD2
+disablePwmB    KEYWORD2
+enablePeriodicInterrupt    KEYWORD2
+disablePeriodicInterrupt    KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################

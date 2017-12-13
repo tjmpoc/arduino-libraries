@@ -1,0 +1,22 @@
+#######################################
+# Classes / Datatypes (KEYWORD1)
+#######################################
+ 
+timedCounter	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+setConfiguration    KEYWORD2
+init    KEYWORD2
+start    KEYWORD2
+stop    KEYWORD2
+getHertz    KEYWORD2
+getRpm    KEYWORD2
+getPeriod    KEYWORD2
+calcMinimumHertz    KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
